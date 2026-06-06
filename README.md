@@ -38,7 +38,7 @@
   <p align="center">
     A project that aims to make Discord a tiny bit more accessible for vision impaired users by reminding people to add image descriptions (alt texts) to their images.
     <br />
-    <a href="https://discord.com/api/oauth2/authorize?client_id=1003622371191705630&permissions=274877975552&scope=bot%20applications.commands">Invite to Server</a>
+    <a href="https://discord.com/oauth2/authorize?client_id=1271555556817244200">Invite to Server</a>
     ·
     <a href="https://github.com/bitfl0wer/altminder/issues">Report Bug</a>
     ·
